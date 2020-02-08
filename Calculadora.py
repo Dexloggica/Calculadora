@@ -1,7 +1,6 @@
 from tkinter import *
 from math import *
 
-#holaaaa
 
 ventana = Tk()#creo una instancia de la clase TK
 
